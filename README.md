@@ -60,20 +60,23 @@ Visit the local server link provided in your terminal to access Nina.
 --- 
 
 Usage
-.Getting Started
+-
+Getting Started
 Open the application in your browser.
 Follow Nina’s intuitive prompts to begin your design journey.
 Experiment with the design tools, templates, and creative suggestions she offers.
-Feedback
+Feedback 
+-
 Nina appreciates constructive feedback and compliments! Share your thoughts to help her evolve and improve your creative experience.
 -- 
 .Project Goals
 Nina Projects is dedicated to:
-
+---
 Making graphic design accessible, fun, and educational for everyone.
 Building an inclusive and collaborative open-source community.
 Continuously enhancing Nina’s features to meet the needs of designers.
 Contributing
+--
 We welcome contributions from developers, designers, and creative enthusiasts! Here’s how to contribute:
 ---
 Fork the repository.
@@ -93,17 +96,18 @@ bash
 Copy code
 git push origin feature/your-feature
 Submit a pull request, and we’ll review it promptly.
+--
 License
 This project is licensed under the MIT License, allowing you to freely use, modify, and distribute it.
-
+-
 A Note from Nina
 Thank you for visiting Nina Projects! 🌟 Your support and encouragement mean the world to me. Let’s work together to make graphic design exciting, collaborative, and open for all.
-
+-
 For more updates, visit the Nina Projects GitHub Repository.
-
+-
 markdown
 Copy code
-
+-
 ### Changes and Improvements:
 1. **Fixed Formatting**: Properly formatted code blocks and terminal commands for readability.
 2. **Corrected Installation Section**: Removed redundant code snippets and clarified steps.
