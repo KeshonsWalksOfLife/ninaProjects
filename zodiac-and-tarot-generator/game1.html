@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Zodiac & Tarot Wisdom</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles/styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Zodiac & Tarot Wisdom Generator</h1>
+      <p>Enter your name and birthday to discover your personalized wisdom.</p>
+    </header>
+
+    <main>
+      <div id="wisdom-generator">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" placeholder="Enter our name" required />
+
+        <label for="birthday">Your Birthday:</label>
+        <input type="date" id="birthday" required />
+
+        <button type="submit" id="get-wisdom">Discover Wisdom</button>
+      </div>
+
+      <div id="output">
+        <!-- This is where the results will be displayed -->
+      </div>
+    </main>
+
+    <footer>
+      <p>&copy; 2024 Zodiac & Tarot Wisdom. All rights reserved.</p>
+    </footer>
+
+    <script src="/scripts/script.js"></script>
+  </body>
+</html>
