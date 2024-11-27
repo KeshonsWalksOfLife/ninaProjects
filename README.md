@@ -51,16 +51,16 @@ bash
 Copy code
 npm install
 Start the application:
----
+
 bash
 Copy code
 npm start
 Visit the local server link provided in your terminal to access Nina.
 
---- 
+
 
 Usage
--
+
 Getting Started
 Open the application in your browser.
 Follow Nina’s intuitive prompts to begin your design journey.
