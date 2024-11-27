@@ -59,7 +59,7 @@ Visit the local server link provided in your terminal to access Nina.
 
 
 
-Usage
+`` Usage
 
 Getting Started
 Open the application in your browser.
