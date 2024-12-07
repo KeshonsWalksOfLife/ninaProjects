@@ -46,16 +46,16 @@ Follow these steps to get started with Nina Projects:
 
 --- 
 
-**Install Dependencies**:
+2. **Install Dependencies**:
 ```bash
 npm install
 
 ---
-
+```
 Start the Application: 
 npm start
 
---
+---
 How to Contribute
 We welcome contributions from developers, designers, and creative enthusiasts! Here’s a simple guide to help you contribute effectively:
 
