@@ -49,9 +49,9 @@ Follow these steps to get started with Nina Projects:
 2. **Install Dependencies**:
 ```bash
 npm install
-
----
 ```
+---
+
 Start the Application: 
 npm start
 
