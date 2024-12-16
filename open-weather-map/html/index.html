@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Interactive Weather Widget</title>
+    <link rel="stylesheet" href="/styles/styles.css" />
+  </head>
+  <body>
+    <div class="weather-widget">
+      <h1>Weather Widget</h1>
+      <div class="search">
+        <input type="text" id="cityInput" placeholder="Enter Your City" />
+        <button id="searchBtn">Search</button>
+      </div>
+      <div class="weather-info">
+        <h2 id="cityName">City Name</h2>
+        <p id="temperature">Temperature: --</p>
+        <p id="description">Condition: --</p>
+        <p id="icon"></p>
+      </div>
+      <p id="errorMessage" class="hidden"></p>
+    </div>
+
+    <script src="/script/script.js"></script>
+  </body>
+</html>
